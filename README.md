@@ -3,6 +3,10 @@
 ## Overview
 This project utilizes Power BI to analyze hospitality booking patterns and revenue metrics. It offers interactive dashboards and visualizations to help stakeholders gain insights into booking trends, revenue streams, and customer behavior within the hospitality industry.
 
+## Problem Statement
+This project utilizes Power BI to analyze hospitality booking patterns and revenue metrics. It offers interactive dashboards and visualizations to help stakeholders gain insights into booking trends, revenue streams, and customer behavior within the hospitality industry.
+
+
 ## Table of Contents
 - [Project Objectives](#project-objectives)
 - [Features](#features)
