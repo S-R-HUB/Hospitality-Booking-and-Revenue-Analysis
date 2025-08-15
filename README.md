@@ -104,6 +104,15 @@ This fact table has detailed information of each transaction/booking of every pr
 - DAX (Data Analysis Expressions) – For creating KPI Metrics
 - Power Query – Data cleaning and transformation.
 - Excel/CSV – Data sources.
+
+## Key Insights
+- Business Category generates more Revenue than Luxury
+- Occupancy rate is greater on weekends compared to weekdays
+- Elite Rooms has highest number of bookings and Presidential rooms has lowest number of bookings
+- Atliq Exotica generates the maximum revenue while Atliq Seasons generates the lowest revenue
+- Mumbai generates the highest revenue while Delhi generates the lowest revenue
+- Occupancy rate is highest in Delhi while Bangalore has the lowest occupancy rate
+- Average rating is highest in Delhi while Bangalore has the lowest average rating
   
 ## How to Use
 1. Clone or download this repository.
