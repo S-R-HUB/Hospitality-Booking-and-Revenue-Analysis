@@ -121,21 +121,13 @@ This fact table has detailed information of each transaction/booking of every pr
 4. Refresh the data to view the latest insights.
 5. Explore dashboards using interactive filters.
 
-## Setup Instructions
-1. Install Power BI Desktop.
-2. Download the .pbix file from this repository.
-3. [If applicable] Update data source settings under "Home" > "Transform Data" > "Data Source Settings".
-4. Refresh the data and start exploring.
 
 ## Screenshots
-![Dashboard Screenshot](path/to/screenshot1.png)  
-![Booking Analysis](path/to/screenshot2.png)
+![Data Model](https://github.com/S-R-HUB/Hospitality-Booking-and-Revenue-Analysis/blob/main/Data%20Model.png?raw=true)
+![Dashboard 1](https://github.com/S-R-HUB/Hospitality-Booking-and-Revenue-Analysis/blob/main/Dashboard%201.png?raw=true)
+![Dasboard 2](https://github.com/S-R-HUB/Hospitality-Booking-and-Revenue-Analysis/blob/main/Dashboard%202.png?raw=true)
+![Revenue_Calendar view](https://github.com/S-R-HUB/Hospitality-Booking-and-Revenue-Analysis/blob/main/Revenue%20in%20Calendar%20View.png?raw=true)
+
 
 ## Contributing
-Contributions are welcome! Please submit issues or pull requests for improvements or feature suggestions.
 
-## License
-[Specify your license, e.g., MIT License]
-
-## Contact
-For questions or collaboration, contact [your email] or create an issue in this repository.
