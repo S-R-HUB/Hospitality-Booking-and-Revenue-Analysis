@@ -108,11 +108,14 @@ This fact table has detailed information of each transaction/booking of every pr
 ## Key Insights
 - Business Category generates more Revenue than Luxury
 - Occupancy rate is greater on weekends compared to weekdays
-- Elite Rooms has highest number of bookings and Presidential rooms has lowest number of bookings
+- Elite Rooms has highest number of bookings followed by Standard, Premium and Presidential rooms
 - Atliq Exotica generates the maximum revenue while Atliq Seasons generates the lowest revenue
-- Mumbai generates the highest revenue while Delhi generates the lowest revenue
-- Occupancy rate is highest in Delhi while Bangalore has the lowest occupancy rate
+- Mumbai generates the highest revenue followed by Bangalore, Hyderabad and Delhi
+- Occupancy rate is highest in Delhi followed by Hyderabad, Mumbai and Bangalore
 - Average rating is highest in Delhi while Bangalore has the lowest average rating
+- Logtrip platform has the highest realisation rate and direct offline platform has the highest ADR
+- Tripster platform has the lowest realisation rate and direct online platform has the lowest ADR
+- Occupancy rate is highest on week 32 while week 26 has lowest occupancy rate
   
 ## How to Use
 1. Clone or download this repository.
