@@ -108,7 +108,7 @@ This fact table has detailed information of each transaction/booking of every pr
 
 ## Key Insights
 - The Business category is outperforming the Luxury segment in terms of revenue, showing that travelers have a stronger demand for business-oriented stays.
-- **Occupancy rate** along with **RevPar** is consistently higher on weekends compared to weekdays, pointing to opportunities for targeted weekend promotions and offers.
+- **Occupancy rate** along with **Revenue Per Available Room (RevPar)** is consistently higher on **weekends** compared to **weekdays**, pointing to opportunities for targeted weekend promotions and offers.
 - Among room types, Elite rooms attract the most bookings, followed by Standard, Premium, and then Presidential categories. This reflects a clear guest preference for mid-to-high tier options.
 - In Luxury category hotels, Atliq Exotica in Mumbai contributes the most to total revenue with **118.45M** across all properties, while Atliq Grands in Delhi generates the least with **36.06M**. In Business category Atliq Palace Mumbai generates the maximum revenue of **101.51M** while Atliq Palace Hyderabad generates the least revenue of **44.84M**
 - AtliQ Exotica in Mumbai leads with the highest customer rating of **4.32**, showcasing strong guest satisfaction and a positive service experience. In contrast, AtliQ Seasons, also in Mumbai, holds the lowest rating at **2.29**, signaling a clear opportunity for targeted improvement initiatives to enhance guest perceptions and overall performance.
@@ -117,8 +117,8 @@ This fact table has detailed information of each transaction/booking of every pr
 - While Mumbai tops in revenue, Delhi achieves the highest **occupancy rate**, followed by Hyderabad, Mumbai, and Bangalore, showing potential for better room utilization in these cities.
 - Delhi also secures the highest average customer rating, whereas Bangalore ranks lowest, highlighting where service quality improvements may be necessary.
 - The Logtrip platform records the strongest **revenue realization rate of 70.06%**, while direct offline bookings achieve the highest **Average Daily Rate (ADR)**. This provides insights for platform-specific pricing and partnership strategies.
-- On the other hand, Tripster shows the weakest revenue realization, and the direct online channel has the lowest **ADR**, suggesting areas that need performance improvement.
-- Week 32 saw the highest occupancy rate during the observed period, while week 26 experienced the lowest, offering valuable guidance for seasonal campaigns and resource planning.
+- On the other hand, Tripster shows the weakest **revenue realization**, and the direct online channel has the lowest **ADR**, suggesting areas that need performance improvement.
+- **Week 32** saw the highest occupancy rate during the observed period, while week 26 experienced the lowest, offering valuable guidance for seasonal campaigns and resource planning.
 
   
 ## How to Use
