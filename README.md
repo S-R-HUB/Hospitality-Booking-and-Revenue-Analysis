@@ -107,18 +107,41 @@ This fact table has detailed information of each transaction/booking of every pr
 
 
 ## Key Insights
-- The Business category is outperforming the Luxury segment in terms of revenue, showing that travelers have a stronger demand for business-oriented stays.
-- **Occupancy rate** along with **Revenue Per Available Room (RevPar)** is consistently higher on **weekends** compared to **weekdays**, pointing to opportunities for targeted weekend promotions and offers.
-- Among room types, Elite rooms attract the most bookings, followed by Standard, Premium, and then Presidential categories. This reflects a clear guest preference for mid-to-high tier options.
-- In Luxury category hotels, Atliq Exotica in Mumbai contributes the most to total revenue with **118.45M** across all properties, while Atliq Grands in Delhi generates the least with **36.06M**. In Business category Atliq Palace Mumbai generates the maximum revenue of **101.51M** while Atliq Palace Hyderabad generates the least revenue of **44.84M**
-- AtliQ Exotica in Mumbai leads with the highest customer rating of **4.32**, showcasing strong guest satisfaction and a positive service experience. In contrast, AtliQ Seasons, also in Mumbai, holds the lowest rating at **2.29**, signaling a clear opportunity for targeted improvement initiatives to enhance guest perceptions and overall performance.
-- Out of all bookings, **70%** successfully convert into check-outs, indicating strong guest follow-through. However, **24.84%** end in cancellations and **5%** are recorded as no-shows. These trends highlight a clear opportunity to reduce cancellations and no-shows, which could directly boost occupancy rates and enhance overall revenue performance.
-- Mumbai leads as the top revenue-generating city, with Bangalore, Hyderabad, and Delhi following, providing direction for resource allocation and marketing strategies.
-- While Mumbai tops in revenue, Delhi achieves the highest **occupancy rate**, followed by Hyderabad, Mumbai, and Bangalore, showing potential for better room utilization in these cities.
-- Delhi also secures the highest average customer rating, whereas Bangalore ranks lowest, highlighting where service quality improvements may be necessary.
-- The Logtrip platform records the strongest **revenue realization rate of 70.06%**, while direct offline bookings achieve the highest **Average Daily Rate (ADR)**. This provides insights for platform-specific pricing and partnership strategies.
-- On the other hand, Tripster shows the weakest **revenue realization**, and the direct online channel has the lowest **ADR**, suggesting areas that need performance improvement.
-- **Week 32** saw the highest occupancy rate during the observed period, while week 26 experienced the lowest, offering valuable guidance for seasonal campaigns and resource planning.
+### 1. Business Segment Revenue Leadership
+The Business category is outperforming the Luxury segment in terms of revenue, showing that travelers have a stronger demand for business-oriented stays.
+
+### 2. Weekend Occupancy and RevPar Trends
+Occupancy rate along with Revenue Per Available Room (RevPar) is consistently higher on weekends compared to weekdays, pointing to opportunities for targeted weekend promotions and offers.
+
+### 3. Guest Room Preferences
+Among room types, Elite rooms attract the most bookings, followed by Standard, Premium, and then Presidential categories. This reflects a clear guest preference for mid-to-high tier options.
+
+### 4. Top and Bottom Revenue-Generating Properties
+In Luxury category hotels, Atliq Exotica in Mumbai contributes the most to total revenue with 118.45M across all properties, while Atliq Grands in Delhi generates the least with 36.06M. In Business category, Atliq Grands in Mumbai leads, with Atliq Grands in Hyderabad trailing behind.
+
+### 5. Customer Rating Leaders and Laggards
+AtliQ Exotica in Mumbai leads with the highest customer rating of 4.32, showcasing strong guest satisfaction and a positive service experience. In contrast, AtliQ Seasons, also in Mumbai, holds the lowest rating of 3.74.
+
+### 6. Booking Outcomes and Conversion Rates
+Out of all bookings, 70% successfully convert into check-outs, indicating strong guest follow-through. However, 24.84% end in cancellations and 5% are recorded as no-shows. These trends highlight opportunities to further improve booking conversions.
+
+### 7. Top Revenue Cities
+Mumbai leads as the top revenue-generating city, with Bangalore, Hyderabad, and Delhi following, providing direction for resource allocation and marketing strategies.
+
+### 8. Occupancy Rate by City
+While Mumbai tops in revenue, Delhi achieves the highest occupancy rate, followed by Hyderabad, Mumbai, and Bangalore, showing potential for better room utilization in these cities.
+
+### 9. City-wise Customer Ratings
+Delhi also secures the highest average customer rating, whereas Bangalore ranks lowest, highlighting where service quality improvements may be necessary.
+
+### 10. Platform Performance: Revenue Realization and ADR
+The Logtrip platform records the strongest revenue realization rate of 70.06%, while direct offline bookings achieve the highest Average Daily Rate (ADR). This provides insights for platform optimization.
+
+### 11. Lowest Performing Platforms
+On the other hand, Tripster shows the weakest revenue realization, and the direct online channel has the lowest ADR, suggesting areas that need performance improvement.
+
+### 12. Seasonal Occupancy Rate Patterns
+Week 32 saw the highest occupancy rate during the observed period, while week 26 experienced the lowest, offering valuable guidance for seasonal campaigns and resource planning.
 
   
 ## How to Use
