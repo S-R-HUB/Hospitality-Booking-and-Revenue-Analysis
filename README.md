@@ -3,11 +3,8 @@
 ## Overview
 This project utilizes Power BI to analyze hospitality booking patterns and revenue metrics. It offers interactive dashboards and visualizations to help stakeholders gain insights into booking trends, revenue streams, and customer behavior within the hospitality industry.
 
-## Problem Statement
-AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue..
-
-
 ## Table of Contents
+- [Problem Statement](#Problem Statement)
 - [Project Objectives](#project-objectives)
 - [Data Sources](#data-sources)
 - [How to Use](#how-to-use)
@@ -16,6 +13,9 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+
+## Problem Statement
+AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue.
 
 ## Project Objectives
 - Analyze booking patterns and seasonality.
@@ -113,17 +113,17 @@ The Business category is outperforming the Luxury segment in terms of revenue, s
 ### 2. Weekend Occupancy and RevPar Trends
 Occupancy rate along with Revenue Per Available Room (RevPar) is consistently higher on weekends compared to weekdays, pointing to opportunities for targeted weekend promotions and offers.
 
-### 3. Guest Room Preferences
+### 3. Room Preferences
 Among room types, Elite rooms attract the most bookings, followed by Standard, Premium, and then Presidential categories. This reflects a clear guest preference for mid-to-high tier options.
 
 ### 4. Top and Bottom Revenue-Generating Properties
-In Luxury category hotels, Atliq Exotica in Mumbai contributes the most to total revenue with 118.45M across all properties, while Atliq Grands in Delhi generates the least with 36.06M. In Business category, Atliq Grands in Mumbai leads, with Atliq Grands in Hyderabad trailing behind.
+In Luxury category hotels, Atliq Exotica in Mumbai contributes the most to total revenue with **118.45M** across all properties, while Atliq Grands in Delhi generates the least with **36.06M**. In Business category Atliq Palace Mumbai generates the maximum revenue of **101.51M** while Atliq Palace Hyderabad generates the least revenue of **44.84M**
 
-### 5. Customer Rating Leaders and Laggards
-AtliQ Exotica in Mumbai leads with the highest customer rating of 4.32, showcasing strong guest satisfaction and a positive service experience. In contrast, AtliQ Seasons, also in Mumbai, holds the lowest rating of 3.74.
+### 5. Customer Rating
+AtliQ Exotica in Mumbai leads with the highest customer rating of **4.32**, showcasing strong guest satisfaction and a positive service experience. In contrast, AtliQ Seasons, also in Mumbai, holds the lowest rating of **3.74**.
 
 ### 6. Booking Outcomes and Conversion Rates
-Out of all bookings, 70% successfully convert into check-outs, indicating strong guest follow-through. However, 24.84% end in cancellations and 5% are recorded as no-shows. These trends highlight opportunities to further improve booking conversions.
+Out of all bookings, **70%** successfully convert into check-outs, indicating strong guest follow-through. However, **24.84%** end in cancellations and **5%** are recorded as no-shows. These trends highlight opportunities to further improve booking conversions.
 
 ### 7. Top Revenue Cities
 Mumbai leads as the top revenue-generating city, with Bangalore, Hyderabad, and Delhi following, providing direction for resource allocation and marketing strategies.
@@ -135,13 +135,11 @@ While Mumbai tops in revenue, Delhi achieves the highest occupancy rate, followe
 Delhi also secures the highest average customer rating, whereas Bangalore ranks lowest, highlighting where service quality improvements may be necessary.
 
 ### 10. Platform Performance: Revenue Realization and ADR
-The Logtrip platform records the strongest revenue realization rate of 70.06%, while direct offline bookings achieve the highest Average Daily Rate (ADR). This provides insights for platform optimization.
-
-### 11. Lowest Performing Platforms
-On the other hand, Tripster shows the weakest revenue realization, and the direct online channel has the lowest ADR, suggesting areas that need performance improvement.
+The Logtrip platform records the strongest revenue realization rate of **70.06%**, while direct offline bookings achieve the highest Average Daily Rate (ADR) of **$12,791.17**. This provides insights for platform optimization.
+On the other hand, Tripster shows the weakest revenue realization rate of **69.8%**, and the direct online channel has the lowest ADR of **$12633.71**, suggesting areas that need performance improvement.
 
 ### 12. Seasonal Occupancy Rate Patterns
-Week 32 saw the highest occupancy rate during the observed period, while week 26 experienced the lowest, offering valuable guidance for seasonal campaigns and resource planning.
+**Week 32** saw the highest occupancy rate during the observed period, while **week 26** experienced the lowest, offering valuable guidance for seasonal campaigns and resource planning.
 
   
 ## How to Use
