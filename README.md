@@ -143,11 +143,23 @@ On the other hand, Tripster shows the weakest revenue realization rate of **69.8
 
   
 ## How to Use
-1. Download the .pbix file from this repository.
-2. Open the Power BI file (.pbix) in Power BI Desktop.
-3. Connect to the data source (update paths/credentials as needed).
-4. Refresh the data to view the latest insights.
-5. Explore dashboards using interactive filters.
+
+### Prerequisites
+
+- **Power BI Desktop** installed on your Windows computer.  
+  Download from the [official Microsoft Power BI website](https://powerbi.microsoft.com/desktop/).
+- You can also download Power BI from Microsoft Store and it is completely free
+
+---
+
+### Steps
+
+- Open Power BI Desktop from your Start Menu or desktop shortcut.
+- Click on **File** > **Open**.
+- Browse to the location of your `.pbix` file.
+- Select the file and click **Open**.
+- Power BI Desktop will load the file and display the reports, dashboards, and data models.
+- You can now view and analyze the reports
 
 
 ## Screenshots
