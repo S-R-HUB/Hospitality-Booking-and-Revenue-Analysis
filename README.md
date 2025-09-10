@@ -11,6 +11,7 @@ This project utilizes Power BI to analyze hospitality booking patterns and reven
 - [Key Insights](#key-insights)
 - [How to Use](#how-to-use)
 - [Screenshots](#screenshots)
+- [Limitations](#limitations)
 
 
 ## Problem Statement
@@ -168,3 +169,5 @@ On the other hand, Tripster shows the weakest revenue realization rate of **69.8
 ![Dasboard 2](https://github.com/S-R-HUB/Hospitality-Booking-and-Revenue-Analysis/blob/main/Dashboard%202.png?raw=true)
 ![Revenue_Calendar view](https://github.com/S-R-HUB/Hospitality-Booking-and-Revenue-Analysis/blob/main/Revenue%20in%20Calendar%20View.png?raw=true)
 
+## Limitations
+- Data is limited only to year 2022 for the month of May, June and July. We can add data for more upcoming years
