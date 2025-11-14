@@ -149,7 +149,9 @@ Dashboard 1 ![Dashboard 1](https://github.com/S-R-HUB/Hospitality-Booking-and-Re
 Dasboard 2 ![Dasboard 2](https://github.com/S-R-HUB/Hospitality-Booking-and-Revenue-Analysis/blob/main/Screenshots/Dashboard%202.png)
 Revenue_Calendar view ![Revenue_Calendar view](https://github.com/S-R-HUB/Hospitality-Booking-and-Revenue-Analysis/blob/main/Screenshots/Revenue%20in%20Calendar%20View.png)
 
-## [Dashboard Preview](https://github.com/S-R-HUB/Hospitality-Booking-and-Revenue-Analysis/blob/main/Atliq%20Hospitality%20Dashboard.pdf)
+## Dashboard Preview
+
+Click on this [link](https://github.com/S-R-HUB/Hospitality-Booking-and-Revenue-Analysis/blob/main/Atliq%20Hospitality%20Dashboard.pdf) to get a preview of the dashboard
 
 ## Limitations
 - Data is limited only to year 2022 for the month of May, June and July. We can add data for more upcoming years
