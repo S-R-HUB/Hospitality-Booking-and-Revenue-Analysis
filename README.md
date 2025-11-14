@@ -164,7 +164,7 @@ On the other hand, Tripster shows the weakest revenue realization rate of **69.8
 
 
 ## Screenshots
-![Data Model](https://github.com/S-R-HUB/Hospitality-Booking-and-Revenue-Analysis/blob/main/Screenshots/Data%20Model.png)
+[Data Model](https://github.com/S-R-HUB/Hospitality-Booking-and-Revenue-Analysis/blob/main/Screenshots/Data%20Model.png)
 ![Dashboard 1](https://github.com/S-R-HUB/Hospitality-Booking-and-Revenue-Analysis/blob/main/Screenshots/Dashboard%201.png)
 ![Dasboard 2](https://github.com/S-R-HUB/Hospitality-Booking-and-Revenue-Analysis/blob/main/Screenshots/Dashboard%202.png)
 ![Revenue_Calendar view](https://github.com/S-R-HUB/Hospitality-Booking-and-Revenue-Analysis/blob/main/Screenshots/Revenue%20in%20Calendar%20View.png)
