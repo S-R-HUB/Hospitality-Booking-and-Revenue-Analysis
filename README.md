@@ -164,10 +164,10 @@ On the other hand, Tripster shows the weakest revenue realization rate of **69.8
 
 
 ## Screenshots
-![Data Model](https://github.com/S-R-HUB/Hospitality-Booking-and-Revenue-Analysis/blob/main/Data%20Model.png?raw=true)
-![Dashboard 1](https://github.com/S-R-HUB/Hospitality-Booking-and-Revenue-Analysis/blob/main/Dashboard%201.png?raw=true)
-![Dasboard 2](https://github.com/S-R-HUB/Hospitality-Booking-and-Revenue-Analysis/blob/main/Dashboard%202.png?raw=true)
-![Revenue_Calendar view](https://github.com/S-R-HUB/Hospitality-Booking-and-Revenue-Analysis/blob/main/Revenue%20in%20Calendar%20View.png?raw=true)
+![Data Model](https://github.com/S-R-HUB/Hospitality-Booking-and-Revenue-Analysis/blob/main/Screenshots/Data%20Model.png)
+![Dashboard 1](https://github.com/S-R-HUB/Hospitality-Booking-and-Revenue-Analysis/blob/main/Screenshots/Dashboard%201.png)
+![Dasboard 2](https://github.com/S-R-HUB/Hospitality-Booking-and-Revenue-Analysis/blob/main/Screenshots/Dashboard%202.png)
+![Revenue_Calendar view](https://github.com/S-R-HUB/Hospitality-Booking-and-Revenue-Analysis/blob/main/Screenshots/Revenue%20in%20Calendar%20View.png)
 
 ## Limitations
 - Data is limited only to year 2022 for the month of May, June and July. We can add data for more upcoming years
