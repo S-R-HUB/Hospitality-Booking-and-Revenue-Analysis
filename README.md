@@ -142,32 +142,14 @@ On the other hand, Tripster shows the weakest revenue realization rate of **69.8
 ### 11. Seasonal Occupancy Rate Patterns
 **Week 32** saw the highest occupancy rate during the observed period, while **week 26** experienced the lowest, offering valuable guidance for seasonal campaigns and resource planning.
 
-  
-## How to Use
-
-### Prerequisites
-
-- **Power BI Desktop** installed on your Windows computer.  
-  Download from the [official Microsoft Power BI website](https://powerbi.microsoft.com/desktop/).
-- You can also download Power BI from Microsoft Store and it is completely free
-
----
-
-### Steps
-
-- Open Power BI Desktop from your Start Menu or desktop shortcut.
-- Click on **File** > **Open**.
-- Browse to the location of your `.pbix` file.
-- Select the file and click **Open**.
-- Power BI Desktop will load the file and display the reports, dashboards, and data models.
-- You can now view and analyze the reports
-
 
 ## Screenshots
 Data Model ![Data Model](https://github.com/S-R-HUB/Hospitality-Booking-and-Revenue-Analysis/blob/main/Screenshots/Data%20Model.png)
-![Dashboard 1](https://github.com/S-R-HUB/Hospitality-Booking-and-Revenue-Analysis/blob/main/Screenshots/Dashboard%201.png)
-![Dasboard 2](https://github.com/S-R-HUB/Hospitality-Booking-and-Revenue-Analysis/blob/main/Screenshots/Dashboard%202.png)
-![Revenue_Calendar view](https://github.com/S-R-HUB/Hospitality-Booking-and-Revenue-Analysis/blob/main/Screenshots/Revenue%20in%20Calendar%20View.png)
+Dashboard 1 ![Dashboard 1](https://github.com/S-R-HUB/Hospitality-Booking-and-Revenue-Analysis/blob/main/Screenshots/Dashboard%201.png)
+Dasboard 2 ![Dasboard 2](https://github.com/S-R-HUB/Hospitality-Booking-and-Revenue-Analysis/blob/main/Screenshots/Dashboard%202.png)
+Revenue_Calendar view ![Revenue_Calendar view](https://github.com/S-R-HUB/Hospitality-Booking-and-Revenue-Analysis/blob/main/Screenshots/Revenue%20in%20Calendar%20View.png)
+
+## [Dashboard Preview](https://github.com/S-R-HUB/Hospitality-Booking-and-Revenue-Analysis/blob/main/Atliq%20Hospitality%20Dashboard.pdf)
 
 ## Limitations
 - Data is limited only to year 2022 for the month of May, June and July. We can add data for more upcoming years
